@@ -6,7 +6,8 @@ import AuthContext from "./AuthContext";
 
 const styles = {
   fontFamily: "sans-serif",
-  textAlign: "center"
+  textAlign: "center",
+  overflow: 'hidden',
 };
 
 const authUser = {
