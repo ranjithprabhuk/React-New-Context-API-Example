@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "./Nav";
+import UserInformation from "./UserInformation";
 
 const styles = {
 	width: '100%',
@@ -9,7 +9,7 @@ const styles = {
 const Dashboard = () => (
   <div style={styles}>
     <h1>Dashboard</h1>
-    <Nav />
+    <UserInformation />
   </div>
 );
 
