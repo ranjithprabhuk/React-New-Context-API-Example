@@ -2,13 +2,16 @@
   "name": "react-new-context-api-example",
   "version": "0.1.0",
   "description": "New react context api explained with a example",
-  "keywords": ["React", "Context-API"],
+  "keywords": [
+    "React",
+    "Context-API"
+  ],
   "homepage": "https://github.com/ranjithprabhuk/React-New-Context-API-Example",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.3.1",
     "react-dom": "16.3.1",
-    "react-scripts": "1.1.0"
+    "react-scripts": "^1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
